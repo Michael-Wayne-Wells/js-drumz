@@ -86,7 +86,7 @@ All faders are designed using a 127 value range for potential future midi implem
 * _Navigate to the folder containing this README_
 * _Run "npm i"_
 * _Run "npm run start"_
-* _This site can be viewed in it's current form at https://LiamPKenna.github.io/js-drumz_
+* _This site can be viewed in it's current form at https://michael-wayne-wells.github.io/js-drumz/
 
 _To explore the source code, feel free to browse on github or clone to your local machine_
 
@@ -96,7 +96,7 @@ _Audio will not play on iOS devices, soulutions are currently being investigated
 
 ## Support and contact details
 
-_Any issues or concerns, please email liam@liamkenna.com_
+_Any issues or concerns, please email mwells1286@gmail.com_
 
 ## Technologies Used
 
