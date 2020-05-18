@@ -1,5 +1,7 @@
 # _JS-Drumz_
 
+[DEMO](https://michael-wayne-wells.github.io/js-drumz/)
+
 #### Music Web Application, Dec. 5th 2019
 
 #### By _**Liam Kenna, Jay Winebrenner, Casey Idsinga, Mikey Wells**_
